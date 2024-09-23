@@ -1,1 +1,2 @@
-i changed the massage to see what happen
+finshed the test, didnt add the 3 other but i know how
+
